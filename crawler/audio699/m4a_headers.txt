@@ -1,0 +1,47 @@
+Accept-Encoding: identity;q=1, *;q=0
+chrome-proxy: frfr
+Range: bytes=0-
+Referer: http://www.audio699.com/book/293/10.html
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+CF-RAY: 512d7252bec66ca4-SJC
+Connection: keep-alive
+Content-Length: 3850382
+Content-Range: bytes 0-3850381/3850382
+Content-Type: audio/mpeg
+Date: Sun, 08 Sep 2019 02:21:01 GMT
+ETag: "5c9d1eea-3ac08e"
+Last-Modified: Thu, 28 Mar 2019 19:22:18 GMT
+Server: cloudflare
+
+====================
+
+Accept-Encoding: identity;q=1, *;q=0
+Range: bytes=3833856-
+Referer: http://www.audio699.com/book/293/10.html
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+CF-RAY: 512d725fde086e54-SJC
+Content-Length: 16526
+Content-Range: bytes 3833856-3850381/3850382
+Content-Type: audio/mpeg
+Date: Sun, 08 Sep 2019 02:21:03 GMT
+ETag: "5c9d1eea-3ac08e"
+Last-Modified: Thu, 28 Mar 2019 19:22:18 GMT
+Server: cloudflare
+
+=================
+
+Accept-Encoding: identity;q=1, *;q=0
+Range: bytes=163840-
+Referer: http://www.audio699.com/book/293/10.html
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+
+CF-RAY: 512d725fde086e54-SJC
+Content-Length: 3686542
+Content-Range: bytes 163840-3850381/3850382
+Content-Type: audio/mpeg
+Date: Sun, 08 Sep 2019 02:21:03 GMT
+ETag: "5c9d1eea-3ac08e"
+Last-Modified: Thu, 28 Mar 2019 19:22:18 GMT
+Server: cloudflare
